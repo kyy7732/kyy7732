@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![JAVA](https://img.shields.io/badge/JAVA.svg?&style=for-the-badge&logo=JAVA&logoColor=#000000)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=White)
