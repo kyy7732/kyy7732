@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header)
 ![Yang Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyy7732&show_icons=true&theme=shadow_blue )
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyy7732)](https://solved.ac/kyy7732/)
 # 💪Skills
@@ -24,3 +23,5 @@
  
 # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kyy77321@naver.com)](mailto:kyy77321@naver.com)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer)
