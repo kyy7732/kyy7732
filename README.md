@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Yang Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyy7732&show_icons=true&theme=radical)
+![Yang Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyy7732&show_icons=true&theme=transparent)
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
