@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header)
 ![Yang Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyy7732&show_icons=true&theme=shadow_blue )
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyy7732)](https://solved.ac/kyy7732/)
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
